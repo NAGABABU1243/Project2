@@ -20,7 +20,8 @@
 		<sonar.projectKey>Project2</sonar.projectKey>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login>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</sonar.login>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>password</sonar.password>
 
 	</properties>
 
